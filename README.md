@@ -1,7 +1,7 @@
 # getdata-031
 # This file explains how all of the scripts work and how they are connected.
 
-## This repo contains the solution to the project of Getting and Cleaning Data 
+This repo contains the solution to the project of Getting and Cleaning Data 
 course on Coursera, https://class.coursera.org/getdata-031. It contains an R
 script that reads in data produced by the "Human Activity Recognition Using Smartphones Dataset"
 
